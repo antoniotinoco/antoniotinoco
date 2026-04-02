@@ -31,9 +31,6 @@ Coming from a multidisciplinary background in content, marketing, and data analy
 </p>
 
 ## Featured Projects
-
-## 🚀 Featured Projects
-
 <table>
   <tr>
     <th width="15%">Project</th>
