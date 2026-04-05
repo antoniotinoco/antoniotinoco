@@ -61,14 +61,14 @@ Coming from a multidisciplinary background in content, marketing, and data analy
   </tr>
   <tr>
     <td><a href="https://github.com/antoniotinoco/get_next_line">Get Next Line</a></td>
-    <td>Implementation of a function that reads one line at a time from a file descriptor using static variables.</td>
+    <td>Implementation of a function that reads one line at a time from any file descriptor, using static variables and careful memory management.</td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png" height="40">
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/antoniotinoco/ft_printf">ft_printf</a></td>
-    <td>Reimplementation of C’s printf(), handling variadic arguments and format specifiers.</td>
+    <td>A custom implementation of the C standard printf() function, handling variadic arguments, format parsing, and multiple specifiers.</td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png" height="40">
     </td>
