@@ -39,6 +39,20 @@ Coming from a multidisciplinary background in content, marketing, and data analy
     <th>Tech Stack</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/antoniotinoco/Call_Me_Maybe">Call_Me_Maybe</a></td>
+    <td>Constrained decoding system for LLM-based function calling with schema-guided parameter extraction..</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/antoniotinoco/Fly-in">Fly-in</a></td>
+    <td>Multi-drone path planner using time-expanded graphs and Dijkstra's algorithm for collision-free routing.</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40">
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/antoniotinoco/A-Maze-ing">A-Maze-ing</a></td>
     <td>Configurable maze generator supporting multiple algorithms, with generation, solving, and visual output.</td>
     <td align="center">
@@ -54,7 +68,7 @@ Coming from a multidisciplinary background in content, marketing, and data analy
   </tr>
   <tr>
     <td><a href="https://github.com/antoniotinoco/Born2beRoot">Born2beRoot</a></td>
-    <td>A system administration project involving the setup of a secure, headless Debian server inside VirtualBox.</td>
+    <td>A system administration project involving the setup of a secure, headless Debian server inside VirtualBox</td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="40">
     </td>
