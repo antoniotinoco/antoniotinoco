@@ -39,8 +39,16 @@ Coming from a multidisciplinary background in content, marketing, and data analy
     <th>Tech Stack</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/antoniotinoco/Codexion">Codexion</a></td>
+    <td>Multithreaded resource management simulation with POSIX synchronization, FIFO/EDF scheduling, and burnout detection.</td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png" height="40">
+    </td>
+  </tr>
+  <tr>
+  <tr>
     <td><a href="https://github.com/antoniotinoco/Call_Me_Maybe">Call_Me_Maybe</a></td>
-    <td>Constrained decoding system for LLM-based function calling with schema-guided parameter extraction..</td>
+    <td>Constrained decoding system for LLM-based function calling with schema-guided parameter extraction.</td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40">
     </td>
